@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafel Dalmau
 - 👀 I’m interested in Web Developing, Bioinformatics 🧬 and CiberSecurity 
-- 🌱 I’m currently learning some technologies like React and Springboot
+- 🌱 I’m currently working on Web & Android development 
 - 📫 How to reach me: https://rafeldalmau.netlify.app/ or rafelcod@gmail.com
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
